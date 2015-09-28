@@ -22,6 +22,11 @@ cordova-plugin-themeablebrowserimages
 
 Default images for Cordova ThemeableBrowser Plugin. This plugin imports the default images to the corresponding native folders for Android and iOS.
 
+ThemeableBrowser Cordova Plugin:
+https://github.com/initialxy/cordova-plugin-themeablebrowser
+
+All credit to @initialxy for the images and the direction to create the plugin.
+
 License
 -------
 
